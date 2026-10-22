@@ -3,7 +3,7 @@
 </a>
 
 <p align="center">
-  <a href="https://waqas5144-portfolio-three.vercel.app/"><strong>Explore my portfolio ↗</strong></a>
+  <a href="https://waqas5144-portfolio-three.vercel.app/"><strong>Explore my portfolio</strong></a>
   &nbsp; · &nbsp;
   <a href="https://waqas5144-portfolio-three.vercel.app/#contact">Get in touch</a>
   &nbsp; · &nbsp;
@@ -26,13 +26,13 @@ I'm a software engineer and content creator working across web development, digi
       <h3>Personal Portfolio</h3>
       <p>A home for my development work, creative projects, and ways to connect.</p>
       <p><strong>Next.js · React · Tailwind CSS</strong></p>
-      <a href="https://waqas5144-portfolio-three.vercel.app/">Visit portfolio ↗</a>
+      <a href="https://waqas5144-portfolio-three.vercel.app/">Visit portfolio</a>
     </td>
     <td width="50%" valign="top">
       <h3>Research Hub</h3>
       <p>My final-year project, featured in my portfolio.</p>
       <p><strong>Web application · Academic project</strong></p>
-      <a href="https://reaserch-hub-fyp-2024.vercel.app/app/welcome">Explore project ↗</a>
+      <a href="https://reaserch-hub-fyp-2024.vercel.app/app/welcome">Explore project</a>
     </td>
   </tr>
 </table>
