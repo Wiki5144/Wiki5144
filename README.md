@@ -50,3 +50,8 @@ My portfolio also features work connected with [Pixel Perfects](https://www.pxlp
 ---
 
 <p align="center">Have a project in mind? <a href="https://waqas5144-portfolio-three.vercel.app/#contact"><strong>Let's connect.</strong></a></p>
+
+
+## CoderLegion
+
+[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/WAQAS+AHMAD.svg)](https://coderlegion.com/user/WAQAS+AHMAD)
