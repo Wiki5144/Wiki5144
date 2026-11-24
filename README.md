@@ -2,6 +2,7 @@
   <img src="./banner.svg" alt="Waqas Ahmad — Software Engineer and Content Creator" width="100%" />
 </a>
 
+
 <p align="center">
   <a href="https://waqas5144-portfolio-three.vercel.app/"><strong>Explore my portfolio</strong></a>
   &nbsp; · &nbsp;
@@ -10,15 +11,20 @@
   <a href="https://www.dotera.co/">Dotera</a>
 </p>
 
+
 ## Hello, I'm Waqas
 
+
 I'm a software engineer and content creator working across web development, digital experiences, and creative content.
+
 
 - **Build:** web applications with JavaScript, React, Next.js, and Node.js
 - **Design:** responsive interfaces with a focus on clarity and usability
 - **Create:** digital content that connects technology and communication
 
+
 ## Selected work
+
 
 <table>
   <tr>
@@ -37,21 +43,29 @@ I'm a software engineer and content creator working across web development, digi
   </tr>
 </table>
 
+
 ## Tools I work with
+
 
 **Frontend** &nbsp; JavaScript · React · Next.js · Tailwind CSS  
 **Backend** &nbsp; Node.js  
 **Workflow** &nbsp; Git · GitHub · Vercel
 
+
 ## Beyond the code
+
 
 My portfolio also features work connected with [Pixel Perfects](https://www.pxlperfects.com/), [Dotera](https://dotera.co/), [Coders Wire](https://coderswire.com/), and [Virtual Dive Studio](https://www.virtualdive.studio/).
 
+
 ---
+
 
 <p align="center">Have a project in mind? <a href="https://waqas5144-portfolio-three.vercel.app/#contact"><strong>Let's connect.</strong></a></p>
 
 
+
+
 ## CoderLegion
 
-[![CoderLegion Stats](https://coderlegion.com/profile-stats-badge/WAQAS+AHMAD.svg)](https://coderlegion.com/user/WAQAS+AHMAD)
+[![CoderCard for @WAQAS AHMAD](https://coderlegion.com/codercard/WAQAS+AHMAD.svg)](https://coderlegion.com/user/WAQAS+AHMAD?ref=5476&utm_source=codercard&utm_medium=embed)
